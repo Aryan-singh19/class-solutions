@@ -62,7 +62,7 @@ The hub supports **5th and 6th semester** subjects. Choose your semester on the 
 
 ## 🎮 How to Use
 
-1. **Visit the Site:** Open the [Live Link](https://shiroonigami23-ui.github.io/class-solutions/).
+1. **Visit the Site:** Open the [Live Link](https://aryan-singh19.github.io/class-solutions/).
 2. **Choose your semester** (Step 1) — e.g. Semester 5 or 6 — to see relevant files.
 3. **Find a File:**
    - Use the **Search bar** to filter by name, course code, or keyword.
