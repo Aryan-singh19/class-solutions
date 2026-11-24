@@ -13,7 +13,7 @@
 ## 🔗 Access the Hub
 
 **View and download resources instantly:**
-### [🚀 Launch Student Hub](https://shiroonigami23-ui.github.io/class-solutions/)
+### [🚀 Launch Student Hub](https://aryan-singh19.github.io/class-solutions/)
 
 ---
 
